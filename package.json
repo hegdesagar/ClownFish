@@ -1,0 +1,19 @@
+{
+  "name": "clownfish",
+  "version": "1.0.0",
+  "description": "A Fancy TODO list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegdesagar/ClownFish.git"
+  },
+  "author": "SagarH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hegdesagar/ClownFish/issues"
+  },
+  "homepage": "https://github.com/hegdesagar/ClownFish#readme"
+}
